@@ -12,18 +12,15 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 ```
-def result(a, b):
-    modulo = a % b
-    print("The result of", a, "%", b, "is:", modulo)
-a = int(input("Enter the first number (a): "))
-b = int(input("Enter the second number (b): "))
-result(a, b)
+def result(a,b):
+    c=a%b
+    return c
+
+a=int(input())
+b=int(input())
+print("modulo is",result(a,b))
 ```
 ## Output
-```
-Enter the first number (a): 10
-Enter the second number (b): 3
-The result of 10 % 3 is: 1
-```
-## Result
+![image](https://github.com/user-attachments/assets/f5f2d29e-ffad-450a-8e40-1d9689cc1432)
+##Result
 Thus the given program is verified and executed sucessfully
