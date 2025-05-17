@@ -10,16 +10,13 @@ To write a Python program that defines a **lambda function** which takes two arg
 
 ## 🧾 Program
 ```
-a = int(input("Enter the first number (a): "))
-b = int(input("Enter the second number (b): "))
+a = int(input())
+b = int(input())
 f = lambda a, b: a + b
-print("The sum is:", f(a, b))
+print(f(a, b))
 ```
 ## Output
-```
-Enter the first number (a): 5
-Enter the second number (b): 7
-The sum is: 12
-```
+![image](https://github.com/user-attachments/assets/50e0abd0-5c0f-43f5-998c-b55ee2b72843)
+
 ## Result
 Thus the given program is verified and executed sucessfully
