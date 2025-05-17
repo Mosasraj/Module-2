@@ -22,5 +22,5 @@ print("modulo is",result(a,b))
 ```
 ## Output
 ![image](https://github.com/user-attachments/assets/f5f2d29e-ffad-450a-8e40-1d9689cc1432)
-##Result
+## Result
 Thus the given program is verified and executed sucessfully
