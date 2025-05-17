@@ -40,13 +40,9 @@ for i in range(rows):
 ```
 # End of the program
 ## Sample Output
-```
-     1 
-    1 1 
-   1 2 1 
-  1 3 3 1 
- 1 4 6 4 1
-```
+
+![image](https://github.com/user-attachments/assets/5217f416-88ea-42b9-b134-a41935c4184e)
+
 ## Result
 Thus the given program is verified and executed sucessfully
 
